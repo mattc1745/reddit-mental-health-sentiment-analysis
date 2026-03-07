@@ -1,0 +1,12 @@
+pandas
+scipy
+numpy
+tqdm
+nltk 
+gensim
+pyLDAvis
+plotly
+matplotlib
+wordcloud
+prettytable
+scikit-learn
